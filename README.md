@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Express, Python, Typescript**
 
-- 💬 Ask me about **ReactJS**
+- 💬 Ask me about **React, JS**
 
 - 📫 How to reach me **aliefgym999@gmail.com**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alief gymnastiar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alief gymnastiar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alief-gymnastiar-57883a289/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alief gymnastiar" height="30" width="40" /></a>
 <a  href="https://instagram.com/alief_gtr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alief_gtr" height="30" width="40" /></a>
 </p>
 <br><br>
