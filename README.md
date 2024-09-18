@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Express, Python, Typescript**
 
-- 💬 Ask me about **REACT JS**
+- 💬 Ask me about **ReactJS**
 
 - 📫 How to reach me **aliefgym999@gmail.com**
 
